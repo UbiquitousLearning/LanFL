@@ -1,1 +1,0 @@
-client_per_round = [6,10,10,12,12]

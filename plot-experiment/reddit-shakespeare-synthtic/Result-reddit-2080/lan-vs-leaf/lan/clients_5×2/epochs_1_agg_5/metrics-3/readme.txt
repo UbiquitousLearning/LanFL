@@ -1,2 +1,0 @@
-lan_speed = 20000
-因为lan比leaf的少的round太小，而lan局域网的通信时间是由lan_speed决定的，试试这样能不能让lan比leaf在时间上快吧

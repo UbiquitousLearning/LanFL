@@ -1,1 +1,0 @@
-speed_lan=20metrics_stat.csv
